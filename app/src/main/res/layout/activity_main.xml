@@ -12,6 +12,7 @@
         android:layout_height="wrap_content"
         android:src="@drawable/bart"
         android:elevation="320dp"
+        android:visibility="invisible"
         android:background="#ffc27d"/>
 
     <ImageView
